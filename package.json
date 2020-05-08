@@ -1,0 +1,26 @@
+{
+  "name": "@qlfvr/npx-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+      "npx-card" : "./index.js"
+  },
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qlfvr/npx-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qlfvr/npx-card/issues"
+  },
+  "homepage": "https://github.com/Qlfvr/npx-card#readme",
+  "dependencies": {
+    "boxen": "^4.2.0"
+  }
+}
